@@ -1,3 +1,4 @@
+![logo](https://github.com/AyanBolar/AyanBolar/blob/main/Ayan%20Bolar.png)
 <h1 align="center">Hi 👋, I'm Ayan Bolar</h1>
 <h3 align="center">A passionate Engineering Student and Upcoming CEO from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/01/01cf27a2130db7a21622faf8f43c1c7d_w200.gif"
