@@ -1,6 +1,6 @@
 ![logo](https://github.com/AyanBolar/AyanBolar/blob/main/Ayan%20Bolar.png)
 <h1 align="center">Hi 👋, I'm Ayan Bolar</h1>
-<h3 align="center">A passionate Engineering Student and Upcoming CEO from India</h3>
+<h3 align="center">A passionate Engineering Student and Upcoming Entrepreneur.</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/791e76_8fd569f0f56943a0842603f070e98023~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanbolar&label=Profile%20views&color=0e75b6&style=flat" alt="ayanbolar" /> </p>
