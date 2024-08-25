@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanbolar&label=Profile%20views&color=0e75b6&style=flat" alt="ayanbolar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanbolar" alt="ayanbolar" /></a> </p>
+<p align="left"> <a href=><img src="https://github-profile-trophy.vercel.app/?username=ayanbolar" alt="ayanbolar" /></a> </p>
 
 - 🔭 I’m currently working on **myself**
 
