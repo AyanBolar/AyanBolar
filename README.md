@@ -1,4 +1,4 @@
-![logo](https://github.com/AyanBolar/AyanBolar/blob/main/Ayan%20Bolar.png)
+![logo](https://github.com/AyanBolar/AyanBolar/blob/main/%40AyanBolar.png)
 <h1 align="center">Hi 👋, I'm Ayan Bolar</h1>
 <h3 align="center">A passionate Engineering Student and Upcoming Entrepreneur.</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/791e76_8fd569f0f56943a0842603f070e98023~mv2.gif">
